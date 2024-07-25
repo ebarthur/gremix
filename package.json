@@ -24,10 +24,10 @@
 		"isbot": "^4.1.0",
 		"prisma": "^5.14.0",
 		"react": "^18.2.0",
-		"react-dom": "^18.2.0",
-		"unocss": "^0.60.2"
+		"react-dom": "^18.2.0"
 	},
 	"devDependencies": {
+		"@biomejs/biome": "1.8.3",
 		"@remix-run/dev": "^2.9.2",
 		"@types/react": "^18.2.20",
 		"@types/react-dom": "^18.2.7",
@@ -41,6 +41,7 @@
 		"eslint-plugin-react-hooks": "^4.6.0",
 		"type-fest": "^4.22.1",
 		"typescript": "^5.1.6",
+		"unocss": "^0.61.5",
 		"vite": "^5.1.0",
 		"vite-tsconfig-paths": "^4.2.1"
 	},
